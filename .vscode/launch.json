@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringApiApplication<spring_api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "nvc.it.spring_api.SpringApiApplication",
+            "projectName": "spring_api",
+            "args": ""
+        }
+    ]
+}
